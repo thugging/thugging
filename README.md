@@ -5,7 +5,7 @@
 **im very good at getting 3 letter names but  they arent the best**
 
 
-#Contacts
+# Contacts
 
 
-__**my discord is stoled#0480**__
+**my discord is stoled#0480**
