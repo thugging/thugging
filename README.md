@@ -1,11 +1,15 @@
-# Welcome to my page
+# · Welcome to my page
 
-**wsg im stoled, im very active on discord if you tryna contact me, or smth**
+**wsg im yeiyo, im very active on discord if you wanna contact me, or smth**
 
 **im very good at getting 3 letter names but  they arent the best**
 
 
-# Contacts
+# · Contacts
 
 
-**my discord is stoled#1807**
+ **my discord is yeiyo#0001**
+
+ **my twitter is Yuruze if you wanna dm me about something, not very active on there tho**
+ 
+ **my[discord server](https://discord.gg/sniped)** feel free to join :)
