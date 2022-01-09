@@ -12,4 +12,4 @@
 
  **my twitter is Yuruze if you wanna dm me about something, not very active on there tho**
  
- **my[discord server](https://discord.gg/sniped)** feel free to join :)
+ **my** **[discord server](https://discord.gg/sniped)** **feel free to join <3**
