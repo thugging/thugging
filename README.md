@@ -8,7 +8,7 @@
 # · Contacts
 
 
- **my discord is **thug#0002** **if you wanna add me**
+ **my discord is** **thug#0002** **if you wanna add me**
 
  **my twitter is **[Yuzaruuz](https://twitter.com/Yuzaruuz)** if you wanna dm me about something, not very active on there tho**
  
