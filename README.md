@@ -8,7 +8,7 @@
 # · Contacts
 
 
- **my discord is yeiyo#0001**
+ **my discord is __**thug#0002**__ if you wanna add me**
 
  **my twitter is **[Yuzaruuz](https://twitter.com/Yuzaruuz)** if you wanna dm me about something, not very active on there tho**
  
