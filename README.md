@@ -1,6 +1,6 @@
 # · Welcome to my page
 
-**wsg im yeiyo, im very active on discord if you wanna contact me, or smth**
+**wsp im yeiyo but you can call me thug, im very active on discord if you wanna contact me, or smth**
 
 **im very good at getting 3 letter names but  they arent the best**
 
