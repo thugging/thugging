@@ -10,7 +10,6 @@
 <p align = "center">
     hello im nex but my github name is thugging so simply just call me thug, im very active on discord if you wanna contact me, or something
     my music taste is very bad, i like pasta and favorite colors are purple, black, and white. I perfer not to say my age due to me not being comfortable
-    <img src = "https://cdn.discordapp.com/attachments/855067725624770620/932735376924237895/thugging.png"/>
 <p>
 
 # Nerd Stats
