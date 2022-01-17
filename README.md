@@ -1,15 +1,19 @@
-# · Welcome to my page
+# Profile Views
+<p align = "center">
+  <img src = "https://komarev.com/ghpvc/?username=thugging&color=a27dbe"/>
+</p>
+<p align = "center">
+    <img src = "https://discord.c99.nl/widget/theme-3/924045799833350224.png"/>
+</p>
 
-**hello im yeiyo but you can call me thug, im very active on discord if you wanna contact me, or something**
+# About Me
+<p align = "center">
+    hello im yeiyo but you can call me thug, im very active on discord if you wanna contact me, or something
+    my music taste is very bad, i like pasta and favorite colors are purple, black, and white. I perfer not to say my age due to me not being comfortable
+<p>
 
-**my music taste is very bad, i like pasta and favorite colors are purple, black, and white. I perfer not to say my age due to me not being comfortable**
-
-
-# · Contacts
-
-
- **my discord is** **thug#0002** **if you wanna add me and talk to me about something**
-
- **my twitter is** **[Yuzaruuz](https://twitter.com/Yuzaruuz)** **if you wanna dm me about something,** **not very active on there tho**
- 
- **my** **[discord server](https://discord.gg/sniped)** **feel free to join <3**⠀⠀⠀⠀⠀⠀⠀⠀⠀
+# Nerd Stats
+<p align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thugging&layout=compact&theme=dark"/>
+    <img src = "https://github-readme-stats.vercel.app/api?username=thugging&show_icons=true&theme=dracula"/>
+</p>
