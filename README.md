@@ -6,10 +6,6 @@
     <img src = "https://discord.c99.nl/widget/theme-1/924045799833350224.png"/>
 </p>
 
-# About Me
-<p align = "center"
-This user is apart of the DIscord Agency, Please avoid this user. 
-<p>
 
 # Nerd Stats
 <p align = "center">
