@@ -8,8 +8,8 @@
 
 # About Me
 <p align = "center">
-    hello im nex but my github name is thugging so simply just call me thug, im very active on discord if you wanna contact me, or something
-    my music taste is very bad, i like pasta and favorite colors are purple, black, and white. I perfer not to say my age due to me not being comfortable
+    This user is apart of the DIscord Agency and could possibly find you! ⚠️
+    Please avoid this user at all costs!
 <p>
 
 # Nerd Stats
