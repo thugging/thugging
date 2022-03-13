@@ -3,7 +3,7 @@
   <img src = "https://komarev.com/ghpvc/?username=thugging&color=a27dbe"/>
 </p>
 <p align = "center">
-    <img src = "https://discord.c99.nl/widget/theme-5/924045799833350224.png"/>
+    <img src = "https://discord.c99.nl/widget/theme-1/924045799833350224.png"/>
 </p>
 
 # About Me
