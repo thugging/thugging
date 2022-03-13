@@ -7,9 +7,8 @@
 </p>
 
 # About Me
-<p align = "center">
-    This user is apart of the DIscord Agency and could possibly find you! ⚠️
-    Please avoid this user at all costs!
+<p align = "center"
+     This user is apart of the DIscord Agency, Please avoid this user. 
 <p>
 
 # Nerd Stats
