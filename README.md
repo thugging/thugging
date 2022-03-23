@@ -1,6 +1,6 @@
 # Profile Views
 <p align = "center">
-  <img src = "https://komarev.com/ghpvc/?username=thugging&color=a27dbe"/>
+  <img src = "https://discord.c99.nl/widget/theme-5/924045799833350224.png"/>
 </p>
 <p align = "center">
     <img src = "https://discord.c99.nl/widget/theme-1/924045799833350224.png"/>
